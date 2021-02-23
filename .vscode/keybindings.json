@@ -1,0 +1,5 @@
+{
+  "key": "f12",
+  "command": "workbench.action.tasks.runTask",
+  "args": "Make Build "
+}
